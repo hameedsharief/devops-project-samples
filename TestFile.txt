@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 This is a test file to check Repo.
+=======
+This is a test file updated for feature branch.
+
+Change for commit-1
+
+Change for commit-2
+>>>>>>> 03b750a (Changes done for commit-2)
